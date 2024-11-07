@@ -1,4 +1,4 @@
-,date,fine_dust,precipitation,snow_depth,day_type,season,year,fd_grade,p_grade,s_grade,snow_depth
+,Date,Fine_dust(㎍/㎥),Precipitation(mm),Snow_depth(cm),Day_type,Season,Year,FD_Grade,P_Grade,S_Grade,Snow_depth(mm)
 0,2021-01-01,36.0,0.0,0.0,Weekend,Winter,2021,Normal,Dry,No_Snow,0.0
 1,2021-01-02,43.0,0.0,0.0,Weekend,Winter,2021,Normal,Dry,No_Snow,0.0
 2,2021-01-03,47.0,0.0,0.0,Weekend,Winter,2021,Normal,Dry,No_Snow,0.0
