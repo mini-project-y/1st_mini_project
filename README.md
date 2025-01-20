@@ -34,3 +34,6 @@
 - Python: pandas, matplotlib, seaborn, scikit-learn
 - Jupyter Notebook
 - GitHub: 협업 및 버전 관리
+
+## 라이센스
+MIT License를 따릅니다. 자세한 내용은 LICENSE 파일을 참조하세요.
